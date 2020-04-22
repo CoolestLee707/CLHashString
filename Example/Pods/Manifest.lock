@@ -1,0 +1,16 @@
+PODS:
+  - CLHashString (0.1.0)
+
+DEPENDENCIES:
+  - CLHashString (from `../`)
+
+EXTERNAL SOURCES:
+  CLHashString:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CLHashString: ae2d5cd7129684afbf6033be4f525dc45de7dc9e
+
+PODFILE CHECKSUM: 2741a0c15230c0717d010ff0a186dc68d859537a
+
+COCOAPODS: 1.9.1

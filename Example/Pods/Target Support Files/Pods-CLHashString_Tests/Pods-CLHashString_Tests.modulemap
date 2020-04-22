@@ -1,0 +1,6 @@
+framework module Pods_CLHashString_Tests {
+  umbrella header "Pods-CLHashString_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
