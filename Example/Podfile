@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CLHashString_Tests' do
+  pod 'CLHashString', :path => '../'
+  
+  
+end
